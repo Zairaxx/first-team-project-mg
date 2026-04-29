@@ -1,10 +1,10 @@
 body {
-    background:lightcoral;
+    background:rgb(243, 52, 52);
 }
 
 .profile {
     margin:8px;
-    width:200px;
+    width:210px;
     border:2px solid black;
     text-align: center;
 }
