@@ -9,6 +9,10 @@ body {
     text-align: center;
 }
 
+.blue {
+    background:lightskyblue;
+}
+
 .profile-list {
     display:flex;
 
